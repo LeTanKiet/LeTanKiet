@@ -15,9 +15,6 @@
 
 ## 📫 How to contact me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/kiet-le-09b75a229/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100025298301377" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -26,6 +23,9 @@
   </a> 
   <a href="mailto:letankietpdcd@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kiet-le-09b75a229/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
 </p>
 
