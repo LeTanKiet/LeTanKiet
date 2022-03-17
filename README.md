@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tan Kiet 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a> -->
 </p>
 <hr/>
 <!-- <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
