@@ -34,7 +34,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48px" height="48px" />
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48px" height="48px"/> -->
@@ -46,4 +45,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letankiet1311&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20usage%20languages" alt="letankiet1311" width="40%"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=letankiet1311&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="letankiet1311" width="60%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=letankiet1311&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activities%20on%20Github" alt="letankiet1311" width="60%"/> -->
