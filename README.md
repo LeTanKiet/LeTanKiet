@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=letankiet1311" alt="letankiet1311" /> <img src="https://badges.pufler.dev/repos/letankiet1311" alt="letankiet1311" /> </p> -->
 
 - ✍ I'm a student of [Ho Chi Minh City University of Science](https://hcmus.edu.vn) (VNU-HCMUS).
-- 🌱 I’m currently learning **Frond End** myseft.
+- 🌱 I’m currently learning **Front End** myseft.
 - ️🎯 Goal: I want to become a software engineer.
 
 
